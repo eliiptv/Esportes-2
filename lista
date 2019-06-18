@@ -1,75 +1,75 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name=".Band Sports HD" tvg-logo="https://megacanal.files.wordpress.com/2012/03/logo-band-sports.png" group-title="ESPORTES",.Band Sports HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3911
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3911
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name=".Band Sports SD" tvg-logo="https://megacanal.files.wordpress.com/2012/03/logo-band-sports.png" group-title="ESPORTES",.Band Sports SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3910
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3910
 #EXTINF:-1 tvg-id="Combate.br" tvg-name=".Combate HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/860/full/Premiere_combate.png" group-title="ESPORTES",.Combate HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3893
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3893
 #EXTINF:-1 tvg-id="Combate.br" tvg-name=".Combate SD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/860/full/Premiere_combate.png" group-title="ESPORTES",.Combate SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3892
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3892
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name=".Espn Brasil HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/873/full/proxy.png" group-title="ESPORTES",.Espn Brasil HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3859
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3859
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name=".Espn Brasil SD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/873/full/proxy.png" group-title="ESPORTES",.Espn Brasil SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3858
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3858
 #EXTINF:-1 tvg-id="Espn.br" tvg-name=".Espn HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/874/full/espn_hd.png?1523428983" group-title="ESPORTES",.Espn HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3857
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3857
 #EXTINF:-1 tvg-id="Espn.br" tvg-name=".Espn HD *" tvg-logo="https://uploaddeimagens.com.br/images/001/367/874/full/espn_hd.png?1523428983" group-title="ESPORTES",.Espn HD *
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3861
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3861
 #EXTINF:-1 tvg-id="Espn.br" tvg-name=".Espn SD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/874/full/espn_hd.png?1523428983" group-title="ESPORTES",.Espn SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3860
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3860
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name=".Fish TV" tvg-logo="https://1.bp.blogspot.com/-hqxeHJVz8zU/UvGZPvj50oI/AAAAAAAAhME/MxMPhvkIw-M/s1600/Fish+Tv.png" group-title="ESPORTES",.Fish TV
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3851
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3851
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name=".Fish TV HD" tvg-logo="https://1.bp.blogspot.com/-hqxeHJVz8zU/UvGZPvj50oI/AAAAAAAAhME/MxMPhvkIw-M/s1600/Fish+Tv.png" group-title="ESPORTES",.Fish TV HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3850
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3850
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name=".Fox Sports 2 HD" tvg-logo="https://uploaddeimagens.com.br/images/001/647/883/full/fox-sports-2-logo-png-3.png?1538446470" group-title="ESPORTES",.Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3839
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3839
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name=".Fox Sports 2 SD" tvg-logo="https://uploaddeimagens.com.br/images/001/647/883/full/fox-sports-2-logo-png-3.png?1538446470" group-title="ESPORTES",.Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3838
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3838
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name=".Fox Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="ESPORTES",.Fox Sports HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3837
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3837
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name=".Fox Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="ESPORTES",.Fox Sports SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3836
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3836
 #EXTINF:-1 tvg-id="Off.br" tvg-name=".OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTES",.OFF HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3901
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3901
 #EXTINF:-1 tvg-id="Off.br" tvg-name=".OFF SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTES",.OFF SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3900
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3900
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name=".Premiere 2 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3773
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3773
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name=".Premiere 2 SD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 2 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3772
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3772
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name=".Premiere 3 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3771
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3771
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name=".Premiere 3 SD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 3 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3770
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3770
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name=".Premiere 4 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 4 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3769
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3769
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name=".Premiere 4 SD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 4 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3768
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3768
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name=".Premiere 5 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3767
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3767
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name=".Premiere 5 SD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 5 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3766
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3766
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name=".Premiere 6 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 6 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3765
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3765
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name=".Premiere 6 SD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 6 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3764
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3764
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name=".Premiere 7 HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 7 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3763
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3763
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name=".Premiere 7 SD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere 7 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3762
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3762
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name=".Premiere Clubes HD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere Clubes HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3775
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3775
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name=".Premiere Clubes SD" tvg-logo="http://4.bp.blogspot.com/-Q7mz4HAcGgk/U4oeZ4YbdrI/AAAAAAACC0s/rWGZ2IYhrPM/s1600/PFC_LOGO_2014.png" group-title="REDE PREMIERE",.Premiere Clubes SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3774
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3774
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name=".SporTV HD" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="ESPORTES",.SporTV HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3741
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3741
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name=".SporTV SD" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="ESPORTES",.SporTV SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3740
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3740
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name=".SporTV2 HD" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="ESPORTES",.SporTV2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3739
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3739
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name=".SporTV2 SD" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="ESPORTES",.SporTV2 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3738
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3738
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name=".SporTV3 HD" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="ESPORTES",.SporTV3 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3737
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3737
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name=".SporTV3 SD" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="ESPORTES",.SporTV3 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3736
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3736
